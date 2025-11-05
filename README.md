@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Eu trabalho e estudo em cibersegurança, e também desenvolvo projetos e automações.<br><><br>I work and study in cybersecurity, and I also develop projects and automations.</p>
+<p align="left">Eu trabalho e estudo cibersegurança, também desenvolvo projetos e automações.<br><><br>I work and study in cybersecurity, and I also develop projects and automations.</p>
 
 ###
 
