@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Security information analyst.</p>
+<p align="left">🖥️ Information security analyst.</p>
 
 ###
 
